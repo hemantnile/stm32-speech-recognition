@@ -4,9 +4,7 @@
  * @author  Hemant Nile
  * @version V1
  * @date    04-Feb-2017
- * @brief   Simple implementation of accessing LIS3DSH accelerometer on STM32F4 
- Discovery board using SPI interface. Four LEDs present on the board 
- lit up when board is tilted in their direction.
+ * @brief   Its a stm32f4 discovery based project. It recognizes 6 spoken words and selects appropriate output.
  
  ******************************************************************************
  */
